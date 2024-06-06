@@ -1,0 +1,97 @@
+<resources>
+    <string name="app_name">HW_Network_Team5_Chatting_Android</string>
+    <!--▼ 제목 적는 곳-->
+    <string-array name="title">
+        <item>[초급] 가죽 공예 수업</item>
+        <item>과일 플레이팅 클래스</item>
+        <item>다육 꾸미기 원데이 클래스</item>
+        <item>책놀이 북스타트데이</item>
+        <item>청파동 주민센터 벼룩시장</item>
+        <item>천연비누 만들기 클래스</item>
+
+    </string-array>
+
+    <!--▼ 행사 이벤트 클래스 정보 적는 곳-->
+    <string-array name="info">
+        <item>\n[설명]\n많은 기대를 받아 진행했던 가죽공예 수업이 성공적으로 끝났습니다!
+               이제는 중급자를 위한 수업보다는 입문자분들을 위한 원데이 클래스를 열어달라는 요청이 많아서
+                이번 2023년 봄에는 설레는 마음으로 초심으로 돌아가보고자 합니다.
+                \n\n[수업 내용]\n입문자를 위한 가방 만들기 수업
+                \n\n[문의]\n02-2199-8460</item>
+        <item>\n[설명]\n남녀노소 누구나 함께 즐길 수 있는 과일을 더욱 예쁘게 플레이팅 하는 방법을 알아봅시다.
+            모든 재료는 지원되며, 여러 과일 깎는 방법, 관리 방법 등을 배울 수 있습니다.
+            완성된 과일 플레이팅은 가져가거나 클래스를 듣는 모두와 함께 먹으면서 즐길 수 있습니다.
+                \n\n[수업 내용]\n과일을 활용한 플레이팅 수업
+                \n\n[문의]\n02-2199-8460</item>
+
+        <item>\n[설명]\n **아동 및 청소년 대상 클래스입니다**
+            식물, 흙, 화분 등 재료들을 직접 만지면서
+            다양한 환경에서 자라는 식물들을 화분에 심어보고 느낀 점을 이야기해보는 시간을 가져보아요.
+            모든 재료는 준비되어 있으며 식물을 사랑하는 마음만 가지고 오시면 됩니다.
+            (주민자치센터 특화사업으로 실시)
+                \n\n[수업 내용]\n다육 식물을 이용한 미니 정원 만들기
+            \n\n[문의]\n02-2199-8460</item>
+
+
+        <item>\n[설명]\n 양육자와 자녀, 그리고 책놀이 전문 강사님과 함께 재미있는 책놀이를 해보아요!
+            영유아·아동 자녀의 오감 발달 교육에 관심 있는 부모와 양육자에게 추천합니다!
+            용산구 북스타트 책놀이 프로그램에 참여해 자녀와 교감하는 뜻깊은 시간을 보내세요~
+                \n\n[수업 내용]\n책과 함께하는 오감 발달 교육
+                \n\n[문의]\n02-707-0138(꿈나무)\n02-714-3931(청파)</item>
+
+        <item>\n[설명]\n판매 물품은 신청자들이 가정에서 가져온 사용가능한 물건입니다.
+            각각의 가정에서 가져온 물건들의 특색을 느낄 수 있으며 저렴한 가격으로 구매를 할 수 있습니다.
+            아이들과 함께 체험을 나와도 좋을 행사입니다.
+                \n\n[내용]\n벼룩시장
+                \n\n[문의]\n02-2199-8460</item>
+        <item>\n[설명]\n코로나로 인해 더욱 중요해진 손씻기를 위해 직접 천연비누를 만들어보아요.
+            자신에게 맞는 나만의 맞춤 천연 비누! 다양한 색과 모양으로 꾸밀 수도 있답니다.
+            아이들도 청소년도 어른도 누구나 참여 가능합니다.
+                \n\n[수업 내용]\n천연비누 만들기
+                \n\n[문의]\n02-2199-8460</item>
+    </string-array>
+
+
+    <!--▼ 일시 적는 곳-->
+    <string-array name="date">
+        <item>청파동 주민센터\n화목 오후6시~8시</item>
+        <item>청파동 주민센터\n월수 오후6시~8시</item>
+        <item>청파동 주민센터\n화목 오후6시~8시</item>
+        <item>꿈나무 도서관, 청파도서관\n화목 오후2시~4시</item>
+        <item>청파동 주민센터\n토일 오후2시~8시</item>
+        <item>청파도서관\n화목 오후4시~6시</item>
+    </string-array>
+    <!--▼ 포트번호 적는 곳-->
+    <integer-array name="portNumber">
+        <item>8001</item>
+        <item>8001</item>
+        <item>8001</item>
+        <item>8002</item>
+        <item>8001</item>
+        <item>8002</item>
+    </integer-array>
+
+    <!--▼ 평점 적는 곳(별 몇개인지)-->
+    <integer-array name="starScore">
+        <item>5</item>
+        <item>4 </item>
+        <item>5 </item>
+        <item>5 </item>
+        <item>4 </item>
+        <item>5 </item>
+    </integer-array>
+
+
+
+    <!--▼ url 적는 곳-->
+    <string-array name="url">
+        <item>https://youtu.be/zJ9xuP7H9pg</item>
+        <item>https://youtu.be/Zo7RKBB7iSU</item>
+        <item>https://youtu.be/wBg2HDmwLPQ</item>
+        <item>https://youtu.be/HesBGtGAJhM</item>
+        <item>https://youtu.be/2xUOpnGiXqE</item>
+        <item>https://youtu.be/4_rsRzOiT2s</item>
+
+    </string-array>
+
+</resources>

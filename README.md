@@ -5,7 +5,7 @@
 
 <p align="center">
   <br> 
-  <img src="./ModongsaDocs/1.main.jpg" width="960" height="540">
+  <img src="./ModongsaDocs/1.main.jpg" width="640" height="360">
   <br>
 </p>
 
@@ -22,7 +22,7 @@
 - [모동사] 모여봐요 동네 사람들 - 우리 동네의 숨은 문화 생활 찾기
 - 동네에서 좋은 축제 및 행사를 주최해도 홍보나 알림이 부족하면 사람들이 모르고 지나가는 경우가 많다. 그래서 우리는 “우리 동네의 숨은 문화 생활 찾기” 를 주제로, 더 다채로운 문화생활과 동네 상권을 활성화 할 수 있는 [모동사] 서비스를 제작하기로 하였다. 
 
-<img src="./ModongsaDocs/2.프로젝트 개요.jpg" width="960" height="540">
+<img src="./ModongsaDocs/2.프로젝트 개요.jpg" width="640" height="360">
   <br></br>
 
 ## 💙 팀 구성
@@ -49,26 +49,26 @@
   <br></br>
   
 ## 👥 서비스 설명
-<img src="./ModongsaDocs/3.서비스설명 (1).jpg" width="960" height="540">
-<img src="./ModongsaDocs/3.서비스설명 (2).jpg" width="960" height="540">
-<img src="./ModongsaDocs/3.서비스설명 (3).jpg" width="960" height="540">
-<img src="./ModongsaDocs/3.서비스설명 (4).jpg" width="960" height="540">
-<img src="./ModongsaDocs/3.서비스설명 (5).jpg" width="960" height="540">
+<img src="./ModongsaDocs/3.서비스설명 (1).jpg"  width="640" height="360">
+<img src="./ModongsaDocs/3.서비스설명 (2).jpg"  width="640" height="360">
+<img src="./ModongsaDocs/3.서비스설명 (3).jpg"  width="640" height="360">
+<img src="./ModongsaDocs/3.서비스설명 (4).jpg"  width="640" height="360">
+<img src="./ModongsaDocs/3.서비스설명 (5).jpg"  width="640" height="360">
   <br></br>  
 
 ## 🌐 SAN(ServiceAreaNetwork) 구성도
-<img src="./ModongsaDocs/4. SAN 구성도 (1).jpg" width="960" height="540">
-<img src="./ModongsaDocs/4. SAN 구성도 (2).jpg" width="960" height="540">
-<img src="./ModongsaDocs/4. SAN 구성도 (3).jpg" width="960" height="540">
-<img src="./ModongsaDocs/4. SAN 구성도 (4).jpg" width="960" height="540">
+<img src="./ModongsaDocs/4. SAN 구성도 (1).jpg"  width="640" height="360">
+<img src="./ModongsaDocs/4. SAN 구성도 (2).jpg"  width="640" height="360">
+<img src="./ModongsaDocs/4. SAN 구성도 (3).jpg" width="640" height="360">
+<img src="./ModongsaDocs/4. SAN 구성도 (4).jpg"  width="640" height="360">
   <br></br>
 
 ## 💬 구현 및 동작 과정
-<img src="./ModongsaDocs/5. 구현 완료.jpg" width="960" height="540">
-<img src="./ModongsaDocs/6. 동작 과정 (1).JPG" width="960" height="540">
-<img src="./ModongsaDocs/6. 동작 과정 (2).JPG" width="960" height="540">
-<img src="./ModongsaDocs/6. 동작 과정 (3).JPG" width="960" height="540">
-<img src="./ModongsaDocs/6. 동작 과정 (4).JPG" width="960" height="540">
-<img src="./ModongsaDocs/6. 동작 과정 (5).JPG" width="960" height="540">
-<img src="./ModongsaDocs/6. 동작 과정 (6).JPG" width="960" height="540">
+<img src="./ModongsaDocs/5. 구현 완료.jpg"  width="640" height="360">
+<img src="./ModongsaDocs/6. 동작 과정 (1).JPG"  width="640" height="360">
+<img src="./ModongsaDocs/6. 동작 과정 (2).JPG"  width="640" height="360">
+<img src="./ModongsaDocs/6. 동작 과정 (3).JPG"  width="640" height="360">
+<img src="./ModongsaDocs/6. 동작 과정 (4).JPG"  width="640" height="360">
+<img src="./ModongsaDocs/6. 동작 과정 (5).JPG"  width="640" height="360">
+<img src="./ModongsaDocs/6. 동작 과정 (6).JPG"  width="640" height="360">
   <br></br>
